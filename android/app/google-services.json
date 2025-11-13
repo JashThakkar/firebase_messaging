@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126087561002",
+    "project_id": "ic17-ec2c8",
+    "storage_bucket": "ic17-ec2c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126087561002:android:476c5288282732639a2853",
+        "android_client_info": {
+          "package_name": "com.example.firebase_messageing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnTiZyvlZz5iBTNrj5lclkgVmqxvvzJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
